@@ -1,2 +1,2 @@
-# dockerised_blog_app
-A dockerized Node.js blog application.
+# Dockerized Node.js Blogging 
+A Node.js blog application dockerized to provide better performance and easy deployments.
